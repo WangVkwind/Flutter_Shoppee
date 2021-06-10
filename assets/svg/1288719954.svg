@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg2"
+    sodipodi:docname="pilgrim_hat.svg"
+    viewBox="0 0 165.22 121.84"
+    sodipodi:version="0.32"
+    version="1.1"
+    inkscape:output_extension="org.inkscape.output.svg.inkscape"
+    inkscape:version="0.46"
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="0"
+      pagecolor="#ffffff"
+      inkscape:window-height="960"
+      inkscape:window-maximized="1"
+      inkscape:zoom="3.959798"
+      inkscape:window-x="33"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="87.302726"
+      inkscape:cy="52.935572"
+      inkscape:window-width="1245"
+      inkscape:pageopacity="0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Layer 1"
+      inkscape:groupmode="layer"
+      transform="translate(-200.85 -50.526)"
+    >
+    <path
+        id="path2830"
+        sodipodi:rx="53.92857"
+        sodipodi:ry="18.928572"
+        style="fill:#282828"
+        sodipodi:type="arc"
+        d="m351.07 116.65a53.929 18.929 0 1 1 -107.86 0 53.929 18.929 0 1 1 107.86 0z"
+        transform="matrix(1.5319 0 0 1.8038 -171.73 -72.188)"
+        sodipodi:cy="116.6479"
+        sodipodi:cx="297.14285"
+    />
+    <path
+        id="path3604"
+        sodipodi:nodetypes="ccssc"
+        style="stroke:#353535;stroke-width:2.6741;fill:#282828"
+        d="m234.27 142.76c39.1 21.9 69.37 15.03 97.42 0.95l-11.94-76.403c-2.28-14.604-56.18-21.53-60.05-8.715l-25.43 84.168z"
+    />
+    <path
+        id="path3686"
+        style="fill-opacity:.80784;fill:#4b4b4b"
+        d="m262.03 65.467l-16.64 56.923 5.2 2.74 16.35-56.314-4.91-3.349z"
+    />
+    <path
+        id="path3661"
+        sodipodi:nodetypes="ccccccccccccc"
+        style="fill:#000000"
+        d="m239.29 127c28.64 13.83 61.63 18.49 89.77 1.67l2.63 14.8-6.69 3.58-14.08 5.26-12.9 3.1-11.7 1.19h-10.02l-11.7-1.91-16.48-5.01-11.94-5.49-2.14-1.43 5.25-15.76z"
+    />
+    <path
+        id="path3628"
+        sodipodi:nodetypes="ccc"
+        style="fill:#353535"
+        d="m319.97 67.4c-2.29-14.604-56.4-21.623-60.49-8.717 17.06 13.697 40.12 16.536 60.49 8.717z"
+    />
+    <path
+        id="path3631"
+        sodipodi:nodetypes="cssscssss"
+        style="fill-opacity:.80784;fill:#646464"
+        d="m218.76 133.21c-1.46 3.73-1.44 8.31 1.56 11.38 2.99 3.05 6.59 5.48 10.46 7.01 15.54 6.16 32 11.26 48.53 14.28 1.89 0.34 3.97 2.97 0.74 3-25.37-1.38-65.75-10.53-72.71-27.25-2.19-5.27-0.1-12.04 5.22-14.16 2.31-0.93 8.9-3.92 8.54 0.36-0.16 1.95-1.63 3.54-2.34 5.38z"
+    />
+    <path
+        id="path3637"
+        sodipodi:nodetypes="cccccccccc"
+        style="stroke:#ffcd1e;stroke-width:1.3157px;fill:#ffcd1e"
+        d="m249.73 128.13l-4.18 19.45 25.54 7.84 2.89-20.66-24.25-6.63zm3.43 4.17l16.55 4.85-2.27 13.29-16.96-5.37 2.68-12.77z"
+    />
+    <path
+        id="path3604-4"
+        sodipodi:nodetypes="ccssc"
+        style="stroke:#353535;stroke-width:2.6741;fill:none"
+        d="m234.27 142.76c39.1 21.9 69.37 15.03 97.42 0.95l-11.94-76.403c-2.28-14.604-56.18-21.53-60.05-8.715l-25.43 84.168z"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Pilgrim Hat with Black Band</dc:title
+        >
+        <dc:date
+          >2010-11-02T17:45:54</dc:date
+        >
+        <dc:description
+          >When I was a kid the bands on these "pilgrim hats" were usually black.  So here's a version like that.</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/93523/pilgrim-hat-with-black-band-by-eady</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >eady</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >black</rdf:li
+            >
+            <rdf:li
+              >hat</rdf:li
+            >
+            <rdf:li
+              >pilgrim</rdf:li
+            >
+            <rdf:li
+              >thanksgiving</rdf:li
+            >
+            <rdf:li
+              >thanksgiving2010</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
