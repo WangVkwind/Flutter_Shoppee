@@ -69,7 +69,7 @@ class Store extends StatelessWidget {
             path,
           height: 150.rpx,
         ),
-        Text("丁克里斯，298￥")
+        Text("丁克里斯，299￥")
       ],
     ),
   );
